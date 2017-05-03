@@ -5,6 +5,7 @@ package com.xqkj.bean;
  */
 public class HelloWorld {
     public  static void main(String args[]){
-        System.out.print(111);
+        System.out.print(1112121);
+
     }
 }
