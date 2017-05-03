@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  first test file! test file!
+  first test file!
   </body>
 </html>
